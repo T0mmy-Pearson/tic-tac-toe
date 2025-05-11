@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "an in-browser version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T0mmy-Pearson/tic-tac-toe.git"
+  },
+  "author": "Tommy Pearson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T0mmy-Pearson/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/T0mmy-Pearson/tic-tac-toe#readme"
+}
